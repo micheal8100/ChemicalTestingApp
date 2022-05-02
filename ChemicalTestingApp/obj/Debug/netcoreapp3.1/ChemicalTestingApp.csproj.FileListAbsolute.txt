@@ -1,0 +1,13 @@
+C:\Users\miccomb\source\repos\ChemicalTestingApp\ChemicalTestingApp\bin\Debug\netcoreapp3.1\ChemicalTestingApp.exe
+C:\Users\miccomb\source\repos\ChemicalTestingApp\ChemicalTestingApp\bin\Debug\netcoreapp3.1\ChemicalTestingApp.deps.json
+C:\Users\miccomb\source\repos\ChemicalTestingApp\ChemicalTestingApp\bin\Debug\netcoreapp3.1\ChemicalTestingApp.runtimeconfig.json
+C:\Users\miccomb\source\repos\ChemicalTestingApp\ChemicalTestingApp\bin\Debug\netcoreapp3.1\ChemicalTestingApp.runtimeconfig.dev.json
+C:\Users\miccomb\source\repos\ChemicalTestingApp\ChemicalTestingApp\bin\Debug\netcoreapp3.1\ChemicalTestingApp.dll
+C:\Users\miccomb\source\repos\ChemicalTestingApp\ChemicalTestingApp\bin\Debug\netcoreapp3.1\ChemicalTestingApp.pdb
+C:\Users\miccomb\source\repos\ChemicalTestingApp\ChemicalTestingApp\obj\Debug\netcoreapp3.1\ChemicalTestingApp.csprojAssemblyReference.cache
+C:\Users\miccomb\source\repos\ChemicalTestingApp\ChemicalTestingApp\obj\Debug\netcoreapp3.1\ChemicalTestingApp.AssemblyInfoInputs.cache
+C:\Users\miccomb\source\repos\ChemicalTestingApp\ChemicalTestingApp\obj\Debug\netcoreapp3.1\ChemicalTestingApp.AssemblyInfo.cs
+C:\Users\miccomb\source\repos\ChemicalTestingApp\ChemicalTestingApp\obj\Debug\netcoreapp3.1\ChemicalTestingApp.csproj.CoreCompileInputs.cache
+C:\Users\miccomb\source\repos\ChemicalTestingApp\ChemicalTestingApp\obj\Debug\netcoreapp3.1\ChemicalTestingApp.dll
+C:\Users\miccomb\source\repos\ChemicalTestingApp\ChemicalTestingApp\obj\Debug\netcoreapp3.1\ChemicalTestingApp.pdb
+C:\Users\miccomb\source\repos\ChemicalTestingApp\ChemicalTestingApp\obj\Debug\netcoreapp3.1\ChemicalTestingApp.genruntimeconfig.cache
